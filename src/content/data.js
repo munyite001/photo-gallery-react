@@ -1,0 +1,65 @@
+export const data = [
+    {
+      "name": "image 1",
+      "url": "/images/image1.jpg",
+      "description": "image 1 description",
+      "date": "2023-06-13",
+      "type": "image/jpg",
+    },
+    {
+      "name": "image 2",
+      "url": "/images/image2.jpg",
+      "description": "image 2 description",
+      "date": "2023-06-13",
+      "type": "image/jpg",
+    },
+    {
+      "name": "image 3",
+      "url": "/images/image3.jpg",
+      "description": "image 3 description",
+      "date": "2023-06-13",
+      "type": "image/jpg",
+    },
+    {
+      "name": "image 4",
+      "url": "/images/image4.jpg",
+      "description": "image 4 description",
+      "date": "2023-06-13",
+      "type": "image/jpg",
+    },
+    {
+      "name": "image 5",
+      "url": "/images/image5.jpg",
+      "description": "image 5 description",
+      "date": "2023-06-13",
+      "type": "image/jpg",
+    },
+    {
+      "name": "image 6",
+      "url": "/images/image6.jpg",
+      "description": "image 6 description",
+      "date": "2023-06-13",
+      "type": "image/jpg",
+    },
+    {
+      "name": "image 7",
+      "url": "/images/image7.jpg",
+      "description": "image 7 description",
+      "date": "2023-06-13",
+      "type": "image/jpg",
+    },
+    {
+      "name": "image 8",
+      "url": "/images/image8.jpg",
+      "description": "image 8 description",
+      "date": "2023-06-13",
+      "type": "image/jpg",
+    },
+    {
+      "name": "image 9",
+      "url": "/images/image9.jpg",
+      "description": "image 9 description",
+      "date": "2023-06-13",
+      "type": "image/jpg",
+    }
+  ]
