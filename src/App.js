@@ -11,7 +11,7 @@ function App() {
     <>
       {showModal&&<Modal setShowModal={setShowModal} setSelectedContent={setSelectedContent} content={selectedContent} data={data}/>}
       <div style={styles.main}>
-        <Header title="Photo Gallery" subtitle="A simple photo gallery app built by munyite001" />
+        <Header title="Photo Gallery" subtitle="A simple photo gallery app built by munyite" />
         <div style={styles.container}>
           {data.map((image_data, index) => {
             return (
